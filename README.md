@@ -6,3 +6,6 @@ Go programming study guide
 
 ## GO and DB
 - [https://dev.to/aquibpy/go-and-mongodb-building-a-crud-api-from-scratch-10p6?ref=dailydev](https://dev.to/aquibpy/go-and-mongodb-building-a-crud-api-from-scratch-10p6?ref=dailydev)<br>
+
+## GO with OAUTH
+- [https://medium.com/@pliutau/getting-started-with-oauth2-in-go-2c9fae55d187](https://medium.com/@pliutau/getting-started-with-oauth2-in-go-2c9fae55d187)<br>
