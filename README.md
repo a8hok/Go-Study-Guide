@@ -9,3 +9,6 @@ Go programming study guide
 
 ## GO with OAUTH
 - [https://medium.com/@pliutau/getting-started-with-oauth2-in-go-2c9fae55d187](https://medium.com/@pliutau/getting-started-with-oauth2-in-go-2c9fae55d187)<br>
+
+## Dev-ops with GO
+- [https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1?ref=dailydev](https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1?ref=dailydev)<br>
