@@ -1,7 +1,6 @@
 # GO-study-guide
-Go programming study guide
 
-# Table of contents
+## Table of contents
 
 - [Go Principles](#go-principles)
 - [GO and DB](#go-and-db)
