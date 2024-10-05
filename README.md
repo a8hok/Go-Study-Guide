@@ -1,6 +1,13 @@
 # GO-study-guide
 Go programming study guide
 
+# Table of contents
+
+- [Go Principles](#go-principles)
+- [GO and DB](#go-and-db)
+- [GO with OAUTH](#go-with-oauth)
+- [Dev-ops with GO](#dev-ops-with-go)
+
 ## Go Principles
 - [https://blog.stackademic.com/mastering-solid-principles-with-go-examples-71db32b8c990](https://blog.stackademic.com/mastering-solid-principles-with-go-examples-71db32b8c990)<br>
 
