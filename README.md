@@ -21,3 +21,6 @@
 
 ## Go cheatsheet 
 - [https://medium.com/@stev3npy/go-cheat-sheet-at-a-glance-33ed05bf1ff7](https://medium.com/@stev3npy/go-cheat-sheet-at-a-glance-33ed05bf1ff7)<br>
+
+## GO youtube
+- [https://www.youtube.com/watch?v=h3fqD6IprIA](https://www.youtube.com/watch?v=h3fqD6IprIA)<br>
