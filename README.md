@@ -24,3 +24,6 @@
 
 ## GO youtube
 - [https://www.youtube.com/watch?v=h3fqD6IprIA](https://www.youtube.com/watch?v=h3fqD6IprIA)<br>
+
+## Go learn
+- [https://dev.to/fonteeboa/golang-guide-a66?context=digest](https://dev.to/fonteeboa/golang-guide-a66?context=digest)<br>
