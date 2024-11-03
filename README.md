@@ -27,3 +27,4 @@
 
 ## Go learn
 - [https://dev.to/fonteeboa/golang-guide-a66?context=digest](https://dev.to/fonteeboa/golang-guide-a66?context=digest)<br>
+- [https://www.bytesizego.com/blog/learning-golang-2024?ref=dailydev](https://www.bytesizego.com/blog/learning-golang-2024?ref=dailydev)<br>
