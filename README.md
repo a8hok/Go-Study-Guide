@@ -7,7 +7,7 @@
 - [GO with OAUTH](#go-with-oauth)
 - [Dev-ops with GO](#dev-ops-with-go)
 
-## Go Principles
+## GO Principles
 - [https://blog.stackademic.com/mastering-solid-principles-with-go-examples-71db32b8c990](https://blog.stackademic.com/mastering-solid-principles-with-go-examples-71db32b8c990)<br>
 
 ## GO and DB
@@ -19,12 +19,15 @@
 ## Dev-ops with GO
 - [https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1?ref=dailydev](https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1?ref=dailydev)<br>
 
-## Go cheatsheet 
+## GO cheatsheet 
 - [https://medium.com/@stev3npy/go-cheat-sheet-at-a-glance-33ed05bf1ff7](https://medium.com/@stev3npy/go-cheat-sheet-at-a-glance-33ed05bf1ff7)<br>
 
 ## GO youtube
 - [https://www.youtube.com/watch?v=h3fqD6IprIA](https://www.youtube.com/watch?v=h3fqD6IprIA)<br>
 
-## Go learn
+## GO learn
 - [https://dev.to/fonteeboa/golang-guide-a66?context=digest](https://dev.to/fonteeboa/golang-guide-a66?context=digest)<br>
 - [https://www.bytesizego.com/blog/learning-golang-2024?ref=dailydev](https://www.bytesizego.com/blog/learning-golang-2024?ref=dailydev)<br>
+
+## GO projects
+- [https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev](https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev)<br>
