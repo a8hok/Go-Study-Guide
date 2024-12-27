@@ -31,3 +31,6 @@
 
 ## GO projects
 - [https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev](https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev)<br>
+
+## GO Tips
+- [https://jarosz.dev/code/organizing-your-golang-code-tips-for-beginners?ref=dailydev](https://jarosz.dev/code/organizing-your-golang-code-tips-for-beginners?ref=dailydev)<br>
