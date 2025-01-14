@@ -28,6 +28,7 @@
 ## GO learn
 - [https://dev.to/fonteeboa/golang-guide-a66?context=digest](https://dev.to/fonteeboa/golang-guide-a66?context=digest)<br>
 - [https://www.bytesizego.com/blog/learning-golang-2024?ref=dailydev](https://www.bytesizego.com/blog/learning-golang-2024?ref=dailydev)<br>
+- [https://dev.to/plleonart/why-im-learning-go-in-2025-28a3?ref=dailydev](https://dev.to/plleonart/why-im-learning-go-in-2025-28a3?ref=dailydev)<br>
 
 ## GO projects
 - [https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev](https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev)<br>
