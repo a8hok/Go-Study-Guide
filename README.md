@@ -35,3 +35,6 @@
 
 ## GO Tips
 - [https://jarosz.dev/code/organizing-your-golang-code-tips-for-beginners?ref=dailydev](https://jarosz.dev/code/organizing-your-golang-code-tips-for-beginners?ref=dailydev)<br>
+
+## GO frameworks
+- [https://leapcell.io/blog/golang-leading-framework-gin-deep-dive?ref=dailydev](https://leapcell.io/blog/golang-leading-framework-gin-deep-dive?ref=dailydev)<br>
