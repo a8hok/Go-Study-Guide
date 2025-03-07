@@ -18,6 +18,7 @@
 
 ## Dev-ops with GO
 - [https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1?ref=dailydev](https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1?ref=dailydev)<br>
+- [https://themsaid.com/building-an-ip-address-manager-in-go?ref=dailydev](https://themsaid.com/building-an-ip-address-manager-in-go?ref=dailydev)<br>
 
 ## GO cheatsheet 
 - [https://medium.com/@stev3npy/go-cheat-sheet-at-a-glance-33ed05bf1ff7](https://medium.com/@stev3npy/go-cheat-sheet-at-a-glance-33ed05bf1ff7)<br>
@@ -36,5 +37,5 @@
 ## GO Tips
 - [https://jarosz.dev/code/organizing-your-golang-code-tips-for-beginners?ref=dailydev](https://jarosz.dev/code/organizing-your-golang-code-tips-for-beginners?ref=dailydev)<br>
 
-## GO frameworks
+## GO Frameworks
 - [https://leapcell.io/blog/golang-leading-framework-gin-deep-dive?ref=dailydev](https://leapcell.io/blog/golang-leading-framework-gin-deep-dive?ref=dailydev)<br>
