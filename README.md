@@ -35,6 +35,7 @@
 - [https://www.bytesizego.com/blog/learning-golang-2024?ref=dailydev](https://www.bytesizego.com/blog/learning-golang-2024?ref=dailydev)<br>
 - [https://github.com/go101/go101?ref=dailydev](https://github.com/go101/go101?ref=dailydev)<br>
 - [https://go.dev/blog/examples?ref=dailydev](https://go.dev/blog/examples?ref=dailydev)<br>
+- [https://www.practical-go-lessons.com/?ref=dailydev](https://www.practical-go-lessons.com/?ref=dailydev)<br>
 
 ## GO projects
 - [https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev](https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev)<br>
