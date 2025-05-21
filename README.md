@@ -49,3 +49,6 @@
 
 ## Go with ReactJS
 - [https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/](https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/)<br>
+
+## GO performance
+- [https://itnext.io/performance-benchmark-node-js-vs-go-9dbad158c3b0](https://itnext.io/performance-benchmark-node-js-vs-go-9dbad158c3b0)<br>
