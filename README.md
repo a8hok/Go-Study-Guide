@@ -52,3 +52,4 @@
 
 ## GO performance
 - [https://itnext.io/performance-benchmark-node-js-vs-go-9dbad158c3b0](https://itnext.io/performance-benchmark-node-js-vs-go-9dbad158c3b0)<br>
+- [https://leapcell.io/blog/a-guide-to-gin-performance-optimization?ref=dailydev](https://leapcell.io/blog/a-guide-to-gin-performance-optimization?ref=dailydev)<br>
