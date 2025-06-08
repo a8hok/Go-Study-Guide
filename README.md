@@ -37,6 +37,7 @@
 - [https://go.dev/blog/examples?ref=dailydev](https://go.dev/blog/examples?ref=dailydev)<br>
 - [https://www.practical-go-lessons.com/?ref=dailydev](https://www.practical-go-lessons.com/?ref=dailydev)<br>
 - [https://dev.to/leapcell/the-art-of-resource-pooling-in-go-449i?ref=dailydev](https://dev.to/leapcell/the-art-of-resource-pooling-in-go-449i?ref=dailydev)<br>
+- [https://leapcell.io/blog/complete-guide-tls-in-go?ref=dailydev](https://leapcell.io/blog/complete-guide-tls-in-go?ref=dailydev)<br>
 
 ## GO projects
 - [https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev](https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev)<br>
