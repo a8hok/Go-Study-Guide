@@ -10,6 +10,7 @@
 ## GO Principles
 - [https://blog.stackademic.com/mastering-solid-principles-with-go-examples-71db32b8c990](https://blog.stackademic.com/mastering-solid-principles-with-go-examples-71db32b8c990)<br>
 - [https://leapcell.io/blog/best-practices-design-patterns-go?ref=dailydev](https://leapcell.io/blog/best-practices-design-patterns-go?ref=dailydev)<br>
+- [https://titpetric.com/2025/06/11/modern-go-application-design/?ref=dailydev](https://titpetric.com/2025/06/11/modern-go-application-design/?ref=dailydev)<br>
 
 ## GO and DB
 - [https://dev.to/aquibpy/go-and-mongodb-building-a-crud-api-from-scratch-10p6?ref=dailydev](https://dev.to/aquibpy/go-and-mongodb-building-a-crud-api-from-scratch-10p6?ref=dailydev)<br>
