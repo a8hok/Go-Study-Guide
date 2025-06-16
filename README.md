@@ -44,6 +44,7 @@
 ## GO projects
 - [https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev](https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev)<br>
 - [https://code.likeagirl.io/building-a-simple-chess-game-using-go-e003f187bbcb](https://code.likeagirl.io/building-a-simple-chess-game-using-go-e003f187bbcb)<br>
+- [https://github.com/plutov/practice-go?ref=dailydev](https://github.com/plutov/practice-go?ref=dailydev)<br>
 
 ## GO Tips
 - [https://jarosz.dev/code/organizing-your-golang-code-tips-for-beginners?ref=dailydev](https://jarosz.dev/code/organizing-your-golang-code-tips-for-beginners?ref=dailydev)<br>
