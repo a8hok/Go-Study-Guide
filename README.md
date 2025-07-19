@@ -40,6 +40,7 @@
 - [https://dev.to/leapcell/the-art-of-resource-pooling-in-go-449i?ref=dailydev](https://dev.to/leapcell/the-art-of-resource-pooling-in-go-449i?ref=dailydev)<br>
 - [https://leapcell.io/blog/complete-guide-tls-in-go?ref=dailydev](https://leapcell.io/blog/complete-guide-tls-in-go?ref=dailydev)<br>
 - [https://prateeksurana.me/blog/guide-to-go-for-javascript-developers/?ref=dailydev](https://prateeksurana.me/blog/guide-to-go-for-javascript-developers/?ref=dailydev)<br>
+- [https://dev.to/leapcell/implementing-enum-types-in-go-527l?ref=dailydev](https://dev.to/leapcell/implementing-enum-types-in-go-527l?ref=dailydev)<br>
 
 ## GO projects
 - [https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev](https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev)<br>
