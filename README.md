@@ -64,3 +64,6 @@
 
 ## GO Tools
 - [https://dev.to/shrsv/best-database-migration-tools-for-golang-ajf?ref=dailydev](https://dev.to/shrsv/best-database-migration-tools-for-golang-ajf?ref=dailydev)<br>
+
+## GO vs
+- [https://www.netguru.com/blog/golang-vs-node?ref=dailydev](https://www.netguru.com/blog/golang-vs-node?ref=dailydev)<br>
