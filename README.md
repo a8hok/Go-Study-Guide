@@ -41,6 +41,7 @@
 - [https://leapcell.io/blog/complete-guide-tls-in-go?ref=dailydev](https://leapcell.io/blog/complete-guide-tls-in-go?ref=dailydev)<br>
 - [https://prateeksurana.me/blog/guide-to-go-for-javascript-developers/?ref=dailydev](https://prateeksurana.me/blog/guide-to-go-for-javascript-developers/?ref=dailydev)<br>
 - [https://dev.to/leapcell/implementing-enum-types-in-go-527l?ref=dailydev](https://dev.to/leapcell/implementing-enum-types-in-go-527l?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/](https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/)<br>
 
 ## GO projects
 - [https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev](https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev)<br>
