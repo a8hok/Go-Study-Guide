@@ -68,3 +68,6 @@
 
 ## GO vs
 - [https://www.netguru.com/blog/golang-vs-node?ref=dailydev](https://www.netguru.com/blog/golang-vs-node?ref=dailydev)<br>
+
+## GO standards
+- [https://dev.to/leapcell/go-coding-official-standards-and-best-practices-284k?ref=dailydev](https://dev.to/leapcell/go-coding-official-standards-and-best-practices-284k?ref=dailydev)<br>
