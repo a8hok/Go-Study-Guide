@@ -71,3 +71,8 @@
 
 ## GO standards
 - [https://dev.to/leapcell/go-coding-official-standards-and-best-practices-284k?ref=dailydev](https://dev.to/leapcell/go-coding-official-standards-and-best-practices-284k?ref=dailydev)<br>
+
+## GO Memory 
+- [https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html?ref=dailydev](https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html?ref=dailydev)<br>
+                                                                                                                                                                                          
+                                                                                                                                                                                          
