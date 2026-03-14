@@ -58,6 +58,7 @@
 - [https://dev.to/leapcell/implementing-enum-types-in-go-527l?ref=dailydev](https://dev.to/leapcell/implementing-enum-types-in-go-527l?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/](https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/)<br>
 - [https://www.youtube.com/watch?v=hxmBvxK6UNw](https://www.youtube.com/watch?v=hxmBvxK6UNw)<br>
+- [https://go.dev/blog/gofix?ref=dailydev](https://go.dev/blog/gofix?ref=dailydev)<br>
 
 ## GO projects
 - [https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev](https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/?ref=dailydev)<br>
