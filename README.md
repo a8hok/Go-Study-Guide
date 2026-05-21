@@ -94,5 +94,8 @@
 
 ## GO Memory 
 - [https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html?ref=dailydev](https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html?ref=dailydev)<br>
+
+## GO dev-ops
+- [https://www.freecodecamp.org/news/build-your-own-kubernetes-operators-with-go-and-kubebuilder/](https://www.freecodecamp.org/news/build-your-own-kubernetes-operators-with-go-and-kubebuilder/)<br>
                                                                                                                                                                                           
                                                                                                                                                                                           
