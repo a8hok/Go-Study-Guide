@@ -98,5 +98,8 @@
 
 ## GO dev-ops
 - [https://www.freecodecamp.org/news/build-your-own-kubernetes-operators-with-go-and-kubebuilder/](https://www.freecodecamp.org/news/build-your-own-kubernetes-operators-with-go-and-kubebuilder/)<br>
+
+## GO project
+- [https://www.freecodecamp.org/news/build-a-full-stack-movie-streaming-app-with-go-react-mongodb-openai/](https://www.freecodecamp.org/news/build-a-full-stack-movie-streaming-app-with-go-react-mongodb-openai/)<br>
                                                                                                                                                                                           
                                                                                                                                                                                           
